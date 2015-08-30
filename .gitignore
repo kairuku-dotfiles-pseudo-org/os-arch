@@ -2,3 +2,5 @@
 
 /config/workstation/mirrorlists/backups
 /config/workstation/mirrorlists/generated
+
+/config/workstation/pacmatic.ini
